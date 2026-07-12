@@ -21,4 +21,4 @@ O servidor mapeia requisições HTTP e entrega respostas dinâmicas processadas 
 *   **Dados Iniciais (Data Seeding):** O sistema verifica se o estoque está vazio e popula o banco automaticamente com itens de teste para validação imediata da API.
 
 ---
-*Projeto desenvolvido por Diego de Souza para consolidação de arquitetura Web Back-end e persistência de dados.*
+*Projeto desenvolvido por Diego Paulino para consolidação de arquitetura Web Back-end e persistência de dados.*
